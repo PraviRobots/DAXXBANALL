@@ -188,6 +188,6 @@ async def restart(e):
 
 
 print("\n\n")
-print("𝐃𝐀𝐗𝐗 𝐓𝐄𝐀𝐌 𝐁𝐀𝐍 𝐀𝐋𝐋 𝐁𝐎𝐓 𝐃𝐎𝐍𝐄 ")
+print("𝐊𝐈𝐍𝐆 𝐏𝐑𝐀𝐕𝐈 𝐓𝐄𝐀𝐌 𝐁𝐀𝐍 𝐀𝐋𝐋 𝐁𝐎𝐓 𝐃𝐎𝐍𝐄  ")
 
 Riz.run_until_disconnected()
